@@ -300,6 +300,9 @@ nav a:hover {
   .image {
     margin: 2% auto;
   }
+  .innovation h1 {
+    font-size: 7rem;
+  }
 
   .middle {
     display: flex;
